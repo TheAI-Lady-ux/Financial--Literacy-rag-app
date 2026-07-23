@@ -12,6 +12,9 @@ sentence-transformers
 faiss-cpu
 ollama
 
+torch
+torchvision
+
 langchain-ollama
 langchain-chroma
 langchain-huggingface
