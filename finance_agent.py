@@ -8,8 +8,8 @@ Combines:
 3. A personalized recommendation
 """
 
-from src. spending_analyzer import analyze_spending, money
-from src.rag_assistant import ask_rag
+from spending_analyzer import analyze_spending, money
+from rag_assistant import ask_rag
 
 
 def build_finance_question(results: dict) -> str:
